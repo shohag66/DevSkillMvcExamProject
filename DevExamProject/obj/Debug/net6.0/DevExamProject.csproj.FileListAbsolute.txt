@@ -68,3 +68,15 @@ C:\Users\shoha\OneDrive\Desktop\DevMvcProject\DevExamProject\obj\Debug\net6.0\re
 C:\Users\shoha\OneDrive\Desktop\DevMvcProject\DevExamProject\obj\Debug\net6.0\DevExamProject.pdb
 C:\Users\shoha\OneDrive\Desktop\DevMvcProject\DevExamProject\obj\Debug\net6.0\DevExamProject.genruntimeconfig.cache
 C:\Users\shoha\OneDrive\Desktop\DevMvcProject\DevExamProject\obj\Debug\net6.0\ref\DevExamProject.dll
+C:\Users\shoha\OneDrive\Desktop\DevMvcProject\DevExamProject\bin\Debug\net6.0\Autofac.dll
+C:\Users\shoha\OneDrive\Desktop\DevMvcProject\DevExamProject\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\shoha\OneDrive\Desktop\DevMvcProject\DevExamProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shoha\OneDrive\Desktop\DevMvcProject\DevExamProject\bin\Debug\net6.0\Serilog.dll
+C:\Users\shoha\OneDrive\Desktop\DevMvcProject\DevExamProject\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\shoha\OneDrive\Desktop\DevMvcProject\DevExamProject\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\shoha\OneDrive\Desktop\DevMvcProject\DevExamProject\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\shoha\OneDrive\Desktop\DevMvcProject\DevExamProject\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\shoha\OneDrive\Desktop\DevMvcProject\DevExamProject\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\shoha\OneDrive\Desktop\DevMvcProject\DevExamProject\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\shoha\OneDrive\Desktop\DevMvcProject\DevExamProject\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\shoha\OneDrive\Desktop\DevMvcProject\DevExamProject\bin\Debug\net6.0\Serilog.Sinks.File.dll
